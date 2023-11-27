@@ -1,4 +1,5 @@
-# Big-Data-Engineering
+## Pyspark
+
 Big Data Engineering/Mining Using RDD, DATA FRAME, SQL, HIVE
 
 This is the trial dataset of various sponsors of public and private pharmaceutical companies of the year 2021. This Clinical trial dataset has been cleaned, performed analysis and visualisation using Databricks software. The project objectives are:
